@@ -20,8 +20,3 @@ These are listed in `requirements.txt` . USe the below command to install these 
 - Update the `from_addr` and `pd.read_csv("filepath")`
 - Assign `email` with your email-id & `password` with your e-mail password.
 - Run script
-
-
-## 🤖 Author
-
-[Pradhyuman Arora](https://github.com/pradhyumanarora)
